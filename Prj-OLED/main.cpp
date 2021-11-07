@@ -7,8 +7,8 @@ const int Address = 0x3C;
 const int SDA_pin = 21;
 const int SCL_pin = 22;
 //WIFI名称及密码
-const char* WIFI_SSID = "IIIIIIIIIIIIIII";  
-const char* WIFI_PWD = "huxuzhuchen";
+const char* WIFI_SSID = "********";  
+const char* WIFI_PWD  = "********";
 const char* ntpSever = "pool.ntp.org";
 //时区信息
 const long gmtoffset_sec = 8*3600;
